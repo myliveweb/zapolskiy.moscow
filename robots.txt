@@ -1,0 +1,6 @@
+User-agent: *
+Sitemap: https://zapolskiy.moscow/sitemap.xml
+
+User-agent: Yandex
+Sitemap: https://zapolskiy.moscow/sitemap.xml
+Host: zapolskiy.moscow
