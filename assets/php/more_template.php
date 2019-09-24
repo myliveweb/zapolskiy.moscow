@@ -1,7 +1,6 @@
 <?php
 require_once($_SERVER["DOCUMENT_ROOT"].'/assets/php/function.php');
-$user = 'mylive_zapolskiy';
-$pass = 'XYcU%be9';
+
 $section 			= cleanUrlParamN($_POST['section']);
 $start 				= cleanUrlParamN($_POST['start']);
 $num_per_page = cleanUrlParamN($_POST['num_per_page']);
